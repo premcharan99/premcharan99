@@ -201,29 +201,8 @@ GPA: 9.5/10 | Top 10% in 2026 Batch
   <a href="#"><img src="https://img.shields.io/badge/Salesforce_Certified_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"></a>
 </div>
 
-## 💼 Work Experience
-
-<img align="left" width="45" height="45" src="https://user-images.githubusercontent.com/74038190/214645904-7a9a5fed-1d9a-4eab-9584-a6fe9110fc06.gif">
-
-**Data Science Intern | Eisystem Technologies**
-- Acquired comprehensive data science capabilities through hands-on training in machine learning, data analysis, and visualization
-- Developed a groundbreaking OCR scanning initiative, which enabled accurate text extraction from photographs with practical uses
-
-## 🌟 Activities & Interests
-
-- Led 30+ NCC cadets in organizing NCC Camp, enhancing teamwork and leadership skills
-- Active participant in hackathons, demonstrating problem-solving and innovation
-- Hobbies: Art, Chess
-
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a374-a33c221e70c3.gif" width="100%">
 
-## 📈 GitHub Activity Graph
-
-<div align="center">
-
-![3D Profile](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
-
-</div>
 
 ## 📱 Connect With Me
 
