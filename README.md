@@ -16,28 +16,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 👨‍💻 About Me
-Innovative AI & full-stack developer pursuing CS at KL University (9.5 GPA, top 10%). Building intelligent solutions at the intersection of AI, cloud, and web technologies. Chess player and digital artist by night.
-- 🔭 Building: **AI-powered cloud solutions**
-- 💬 Expert in: **React, Node.js, Spring Boot, AWS, AI**
-- 📫 Connect: **gpremcharan999@gmail.com**
-- 📍 Based in: **Eluru, Andhra Pradesh**
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
- 
-</p>
-
-## 🎓 Education
-
-
-*B.Tech in Computer Science and Engineering*/
-KL University, Vijayawada, AP  
-Expected Graduation: May 2026  
-GPA: 9.5/10 | Top 10% in 2026 Batch
-
-
 ## 🛠️ Tech Stack
 
 <div align="center">
